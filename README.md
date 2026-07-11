@@ -25,14 +25,14 @@ An AI-powered system that not only detects fraud but investigates relationships 
 
 ---
 
-## 🧠 Problem Statement
+##  🧠 Problem Statement
 
-Traditional fraud detection systems:
+## Traditional fraud detection systems:
 - Work on **isolated transactions**
 - Generate **high false positives**
 - Lack **explainability**
 
-Modern systems are shifting toward:
+##  Modern systems are shifting toward:
 - Graph-based fraud detection
 - AI-driven investigation pipelines
 - Explainable decision systems :contentReference[oaicite:0]{index=0}
@@ -112,7 +112,7 @@ git clone https://github.com/sathwik27-ai/Autonomous_Fraud_Investigation.git
 cd Autonomous_Fraud_Investigation
 docker compose up --build
 ```
-### 🔹 Access Applications
+## 🔹 Access Applications
 
 🌐 Frontend → http://localhost:3000
 
@@ -122,23 +122,25 @@ docker compose up --build
 
 🔁 n8n → http://localhost:5678
 
-### 📈 Impact
+---
 
-1.Detects fraud beyond rule-based systems
+## 📈 Impact
 
-2.Uses graph relationships instead of isolated data
+1. Detects fraud beyond rule-based systems
 
-3.Reduces false positives using network intelligence
+2. Uses graph relationships instead of isolated data
 
-4.Simulates real fintech fraud investigation pipelines
+3. Reduces false positives using network intelligence
 
-5.Modern fraud systems increasingly rely on:
+4. Simulates real fintech fraud investigation pipelines
 
-6.Graph analysis
+5. Modern fraud systems increasingly rely on:
 
-7.AI reasoning
+6. Graph analysis
 
-8.Real-time pipelines
+7. AI reasoning
+
+8. Real-time pipelines
 
 ### 🔥 Key Highlight
 
@@ -183,6 +185,7 @@ This project demonstrates:
 3. Real-world fintech system design
 
 👉 Designed to showcase industry-level system thinking, not just coding.
+
 ---
 
 ###  👨‍💻 Contributors
@@ -195,5 +198,4 @@ This project was collaboratively developed as part of an AI-driven fraud investi
 | **Rochita** | Frontend Development, Dashboard Design, Integration, Testing, Documentation |
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
 ---
