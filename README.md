@@ -12,7 +12,7 @@ full reasoning trace.
 
 This is not a chatbot — it is a decision-making system.
 
-```
+```bash
  simulator ──▶ n8n webhook ──▶ pre-filter rules ──┬─▶ low risk ──▶ POST /transactions
                                                   │
                                                   └─▶ suspicious ─▶ POST /investigate
