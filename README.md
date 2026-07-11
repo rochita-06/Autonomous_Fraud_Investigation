@@ -159,3 +159,17 @@ AI + Graph integration
 Real-world fintech system design
 
 👉 Designed to showcase industry-level system thinking, not just coding.
+---
+
+# 👨‍💻 Contributors
+
+This project was collaboratively developed as part of an AI-driven fraud investigation system.
+
+| Contributor | Role |
+|-------------|------|
+| **Sathwik** | Backend Development, AI Agent Design, Graph Intelligence, System Architecture |
+| **Rochita** | Frontend Development, Dashboard Design, Integration, Testing, Documentation |
+
+
+
+---
