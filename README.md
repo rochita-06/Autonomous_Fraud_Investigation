@@ -1,6 +1,6 @@
 # 🛡️ Autonomous Fraud Investigation System
 
-An AI-powered system that not only detects fraud but **investigates relationships between entities using Graph Intelligence, AI Agents, and RAG-based reasoning**.
+An AI-powered system that not only detects fraud but investigates relationships between entities using Graph Intelligence, AI Agents, and RAG-based reasoning.
 
 > ⚡ Unlike traditional fraud detection systems that only score transactions, this system **analyzes networks, explains decisions, and simulates real-world fintech investigation workflows**.
 
