@@ -7,7 +7,7 @@ multi-step LangGraph agent plans its own investigation, calls tools (behavioural
 baselines, anomaly checks, Neo4j graph queries, FAISS vector search over known
 fraud cases), and produces an explainable decision — fraud score, evidence-based
 reasons, confidence, and an action (allow / review / block). n8n drives the
-event pipeline; a Next.js console shows the live feed, alerts, and the agent's
+event pipeline, a Next.js console shows the live feed, alerts, and the agent's
 full reasoning trace.
 
 This is not a chatbot — it is a decision-making system.
