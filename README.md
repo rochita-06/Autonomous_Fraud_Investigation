@@ -142,9 +142,13 @@ docker compose up --build
 
 8. Real-time pipelines
 
+---
+
 ### 🔥 Key Highlight
 
 💡 “This system doesn’t just detect fraud — it investigates it.”
+
+---
 
 ### 🧪 Example Use Case
 
@@ -162,6 +166,8 @@ docker compose up --build
 
 👉 “Linked to known fraudulent cluster”
 
+---
+
 ### 🧩 Future Improvements
 
 1. Real-time streaming (Kafka)
@@ -173,6 +179,8 @@ docker compose up --build
 4. Real payment gateway integration
 
 5. Production-grade monitoring
+
+---
 
 ### ⭐ Final Note
 
