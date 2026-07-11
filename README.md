@@ -148,8 +148,8 @@ Cloud deployment (AWS/GCP)
 Real payment gateway integration
 Production-grade monitoring
 👨‍💻 Contributors
-Sathwik
-Rochita
+~Sathwik
+~Rochita
 ⭐ Final Note
 
 This project demonstrates:
