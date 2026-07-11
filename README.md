@@ -112,7 +112,7 @@ git clone https://github.com/sathwik27-ai/Autonomous_Fraud_Investigation.git
 cd Autonomous_Fraud_Investigation
 docker compose up --build
 ```
-🔹 Access Applications
+### 🔹 Access Applications
 
 🌐 Frontend → http://localhost:3000
 
@@ -122,57 +122,70 @@ docker compose up --build
 
 🔁 n8n → http://localhost:5678
 
-📈 Impact
+### 📈 Impact
 
-Detects fraud beyond rule-based systems
+1.Detects fraud beyond rule-based systems
 
-Uses graph relationships instead of isolated data
+2.Uses graph relationships instead of isolated data
 
-Reduces false positives using network intelligence
+3.Reduces false positives using network intelligence
 
-Simulates real fintech fraud investigation pipelines
+4.Simulates real fintech fraud investigation pipelines
 
-Modern fraud systems increasingly rely on:
+5.Modern fraud systems increasingly rely on:
 
-Graph analysis
+6.Graph analysis
 
-AI reasoning
+7.AI reasoning
 
-Real-time pipelines
+8.Real-time pipelines
 
-🔥 Key Highlight
+### 🔥 Key Highlight
 
 💡 “This system doesn’t just detect fraud — it investigates it.”
 
-🧪 Example Use Case
-User A makes transaction
-System detects:
-Same device used by 3 accounts
-Suspicious transfer pattern
-Graph reveals fraud ring
-AI explains:
+### 🧪 Example Use Case
+
+1. User A makes transaction
+
+2. System detects:
+
+3. Same device used by 3 accounts
+
+4. Suspicious transfer pattern
+
+5. Graph reveals fraud ring
+
+6. AI explains:
+
 👉 “Linked to known fraudulent cluster”
-🧩 Future Improvements
-Real-time streaming (Kafka)
-Advanced ML models (XGBoost / DL)
-Cloud deployment (AWS/GCP)
-Real payment gateway integration
-Production-grade monitoring
-👨‍💻 Contributors
-~Sathwik
-~Rochita
-⭐ Final Note
+
+### 🧩 Future Improvements
+
+1. Real-time streaming (Kafka)
+
+2. Advanced ML models (XGBoost / DL)
+
+3. Cloud deployment (AWS/GCP)
+
+4. Real payment gateway integration
+
+5. Production-grade monitoring
+
+### ⭐ Final Note
 
 This project demonstrates:
 
-Full-stack engineering
-AI + Graph integration
-Real-world fintech system design
+1. Full-stack engineering
+
+2. AI + Graph integration
+
+3. Real-world fintech system design
 
 👉 Designed to showcase industry-level system thinking, not just coding.
 ---
 
-# 👨‍💻 Contributors
+###  👨‍💻 Contributors
 
 This project was collaboratively developed as part of an AI-driven fraud investigation system.
 
