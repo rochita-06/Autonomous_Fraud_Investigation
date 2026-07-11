@@ -113,24 +113,35 @@ cd Autonomous_Fraud_Investigation
 docker compose up --build
 ```
 🔹 Access Applications
+
 🌐 Frontend → http://localhost:3000
+
 ⚙️ Backend API → http://localhost:8000/docs
+
 🧠 Neo4j → http://localhost:7474
+
 🔁 n8n → http://localhost:5678
 
 📈 Impact
+
 Detects fraud beyond rule-based systems
+
 Uses graph relationships instead of isolated data
+
 Reduces false positives using network intelligence
+
 Simulates real fintech fraud investigation pipelines
 
 Modern fraud systems increasingly rely on:
 
 Graph analysis
+
 AI reasoning
+
 Real-time pipelines
 
 🔥 Key Highlight
+
 💡 “This system doesn’t just detect fraud — it investigates it.”
 
 🧪 Example Use Case
