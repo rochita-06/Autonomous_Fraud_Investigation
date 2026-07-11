@@ -172,10 +172,6 @@ docker compose up --build
 
 5. Production-grade monitoring
 
-### 👨‍💻 Contributors
-~Sathwik
-~Rochita
-
 ### ⭐ Final Note
 
 This project demonstrates:
@@ -189,7 +185,7 @@ This project demonstrates:
 👉 Designed to showcase industry-level system thinking, not just coding.
 ---
 
-# 👨‍💻 Contributors
+###  👨‍💻 Contributors
 
 This project was collaboratively developed as part of an AI-driven fraud investigation system.
 
