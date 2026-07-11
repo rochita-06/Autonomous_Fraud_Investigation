@@ -194,6 +194,6 @@ This project was collaboratively developed as part of an AI-driven fraud investi
 | **Sathwik** | Backend Development, AI Agent Design, Graph Intelligence, System Architecture |
 | **Rochita** | Frontend Development, Dashboard Design, Integration, Testing, Documentation |
 
-
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ---
